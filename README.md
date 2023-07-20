@@ -1,3 +1,4 @@
+@@ -1,12 +1,12 @@
 <h1 align="center">WELCOME TO MY PAGE 👋</h1>
 <h3 align="center">My name is Duong Duc Trinh - a passionate Data Analyst curious about the world</h3>
 
