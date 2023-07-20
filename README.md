@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing](https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing](https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing)
 
 - I’m currently learning **Domain knowledge for business analysis, Python, and Machine learning**
 
