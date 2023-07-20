@@ -1,3 +1,4 @@
+<h1 align="center">WELCOME TO MY PAGE 👋</h1>
 <h3 align="center">My name is Duong Duc Trinh - a passionate Data Analyst curious about the world</h3>
 
 - I am interested in the following topics: we are in the data era, so how does data impact business and the potential of data science
