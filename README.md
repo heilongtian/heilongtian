@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, My name is Duong Duc Trinh</h1>
-<h3 align="center">A passionate Data Analyst curious about the world</h3>
+<h1 align="center">Welcome to my world</h1>
+<h3 align="center">My name is Duong Duc Trinh, a passionate Data Analyst who is curious about the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heilongtian&label=Profile%20views&color=0e75b6&style=flat" alt="heilongtian" /> </p>
 
-- I am interested in the following topics **We are in the data era, how does data impact business, and the potential of data science**
-
+- I am interested in the following topics: we are in the data era, so how does data impact business and the potential of data science
 - All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)
-
 - Know about my experiences [https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing](https://drive.google.com/file/d/1DXNx0UrPBcxwYjPv7WreCvs-Nu71JuF4/view?usp=sharing)
-
-- I’m currently learning **Domain knowledge for business analysis, Python, and Machine learning**
+- I’m currently learning domain knowledge for business analysis, python, and machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
