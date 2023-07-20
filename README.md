@@ -1,8 +1,8 @@
 <h3 align="center">My name is Duong Duc Trinh - a passionate Data Analyst curious about the world</h3>
 
-I am interested in the following topics: we are in the data era, so how does data impact business and the potential of data science
-All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)
-I’m currently learning domain knowledge for business analysis, python, and machine learning
+- I am interested in the following topics: we are in the data era, so how does data impact business and the potential of data science
+- All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)
+- I’m currently learning domain knowledge for business analysis, python, and machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
