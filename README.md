@@ -11,5 +11,5 @@ My name is Duong Duc Trinh - a passionate Data Analyst curious about the world. 
 
 <a href="https://github.com/heilongtian/Explore-Ecommerce-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=Explore-Ecommerce-Dataset&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=heilongtian&repo=Explore-Ecommerce-Dataset&theme=radical" />
 </a>    
