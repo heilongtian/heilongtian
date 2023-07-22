@@ -21,6 +21,10 @@ My name is Duong Duc Trinh - a passionate Data Analyst curious about the world. 
 <a href="https://github.com/heilongtian/AdventureWorks/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=heilongtian&repo=AdventureWorks&theme=onedark" />
+</a> 
+<a href="https://github.com/heilongtian/Cohort-Analysis/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=heilongtian&repo=Cohort-Analysis&theme=merko" />
 
 
 <h3 align="left">Languages and Tools:</h3>
