@@ -2,12 +2,11 @@
 Hello, I am Trinh Duong. I am a Business Intelligence Analyst who is curious about the world of data. I am interested in how data impacts business and the potential of data itself. I’m learning business analysis and everything needed to excel in my job.  I am interested in the following topics: Implementing AI In Data Analytics, Using Business Intelligence To Gather Insights, and Using Synthetic Data To Deliver High-Quality Data While Ensuring Privacy.
 All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)<br>
 
-## 📫  My LinkedIn:
+## 📫  How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/heilongtian/)
-
-## My Projects:
 ![Trinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heilongtian&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+## My Projects:
 <a href="https://github.com/heilongtian/Explore-Ecommerce-Dataset/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=heilongtian&repo=Explore-Ecommerce-Dataset&theme=radical" />
