@@ -1,6 +1,6 @@
 <h1 align="left">WELCOME TO MY PAGE 👋</h1>
 
-My name is Duong Duc Trinh - a passionate Data Analyst curious about the world. I am interested in the following topics: we are in the data era, so how does data impact business and the potential of data science? I’m currently learning domain knowledge for business analysis, python, and machine learning. All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)<br>
+I am Duc Trinh - a passionate Data Analyst curious about the world. I am interested in the following topics: how does data impact our business and the potential of data analytics? I’m learning domain knowledge for business intelligence analysis, python, and machine learning. All of my projects are available at [https://github.com/heilongtian](https://github.com/heilongtian)<br>
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trinhduongduc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/heilongtian)
